@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projectConvertDollar</string>
+    <string name="Inr">INR</string>
+    <string name="PKR">PKR</string>
+    <string name="INR">INR</string>
+    <string name="KWD">KWD</string>
+    <string name="BHD">BHD</string>
+    <string name="OMR">OMR</string>
+</resources>
